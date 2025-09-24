@@ -20,6 +20,8 @@
 
 [![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Randark-JMT/MCPs/tree/main/doh-worker)
 
+[![MCP Badge](https://lobehub.com/badge/mcp-full/randark-jmt-doh-mcp-server)](https://lobehub.com/mcp/randark-jmt-doh-mcp-server)
+
 ### 命令行部署
 
 ```bash
